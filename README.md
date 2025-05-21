@@ -40,7 +40,7 @@ By analyzing this shift, we can calculate the **speed and direction** of the sta
 
 ## 📈 Sample Plot
 
-![spectrum_plot](screenshot.png)  
+![spectrum_plot](plot.png)  
 *Figure: Spectrum of a star showing absorption dip near 656.3 nm*
 
 ---
